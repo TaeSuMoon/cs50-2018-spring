@@ -27,7 +27,7 @@ int main (void)
 /*
 if (condition = true)
 {
-    exectue ~
+    exectue ~ ok
 }
 */
 
