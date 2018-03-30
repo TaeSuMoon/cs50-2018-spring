@@ -30,7 +30,7 @@ int main(void)
     {
         printf("INVALID\n");
     }
-    
+
     return 0;
 }
 
